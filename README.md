@@ -1,0 +1,1 @@
+# FastAPI-mongodb-template
